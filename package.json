@@ -1,0 +1,26 @@
+{
+  "name": "curso-de-fundamentos-de-node.js__platzi_course",
+  "version": "0.0.1",
+  "description": "Curso de Fundamentos de Node.js( platzi_course)",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon conceptos/entorno.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GerardoDev25/Curso-de-Fundamentos-de-Node.js__platzi_course.git"
+  },
+  "keywords": [],
+  "author": "Gerardo Miranda <gerardodev25@gmail.com> (https://github.com/GerardoDev25)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/GerardoDev25/Curso-de-Fundamentos-de-Node.js__platzi_course/issues"
+  },
+  "homepage": "https://github.com/GerardoDev25/Curso-de-Fundamentos-de-Node.js__platzi_course#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  },
+  "dependencies": {
+    "pm2": "^5.2.2"
+  }
+}
